@@ -1,8 +1,9 @@
 # Cudy tr3000 v1 immortalwrt-24.10 带闭源硬件加速
 ## 使用说明：
 ### Uboot：  
-[cudy tr3000 v1中文三分区DHCP uboot第二版](https://www.right.com.cn/forum/thread-8415351-1-1.html)  
-使用mod-112m刷入即可(新版256MB不适用)  
+[~~cudy tr3000 v1中文三分区DHCP uboot第二版~~](https://www.right.com.cn/forum/thread-8415351-1-1.html)  
+原厂256mb闪存版本
+
 ### 固件特点：  
 纯净、简洁、追随源码更新  
 ### 添加插件：  
